@@ -2,7 +2,7 @@ repo_name: jianhuagao/play.tailwindcss.com
 report_id: e9add2d0e869e287bd844acba592da83
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-02T06:58:42+00:00'
+timestamp: '2024-02-29T19:51:06+00:00'
 requested_by: kangabru
 provider: github
 branch: master
@@ -55,7 +55,7 @@ tools:
   last_updated_by: Brad Cornes
   last_updated_on: 2021-10-04 15:56:06.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.4
   open_source: true
@@ -171,7 +171,7 @@ tools:
   detection_source_url: https://github.com/jianhuagao/play.tailwindcss.com
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.0
   license: MIT
